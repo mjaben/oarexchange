@@ -6,8 +6,13 @@
             >Privacy Policy</a
           >
         </li>
+        <li class="list-inline-item me-2">
+          <a href="{{route('refundPolicy')}}" class="text-white"
+            >Refund Policy</a
+          >
+        </li>
         <li class="list-inline-item">
-          <a href="extra/terms-of-service.html" class="text-white"
+          <a href="{{route('terms')}}" class="text-white"
             >Terms of Use</a
           >
         </li>

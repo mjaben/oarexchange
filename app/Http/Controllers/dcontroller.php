@@ -184,6 +184,10 @@ class dcontroller extends Controller
             return view('adminpages.privacy_policy');
         }
 
+        public function refundPolicy(){
+            return view('adminpages.refund_policy');
+        }
+
         public function editbtc(){
             return view('adminpages.editbtc');
         }

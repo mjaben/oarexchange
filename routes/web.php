@@ -19,12 +19,13 @@ Route::post('forget-password', 'App\Http\Controllers\ForgotPasswordController@su
 Route::get('user-reset-password/{token}', 'App\Http\Controllers\ForgotPasswordController@showResetPasswordForm')->name('resetpasswordget');
 Route::post('user-reset-password', 'App\Http\Controllers\ForgotPasswordController@submitResetPasswordForm')->name('reset.password.post');
 Route::get('/privacy-policy', "App\Http\Controllers\dcontroller@privacyPolicy")->name('privacyPolicy');
+Route::get('/refund-policy', "App\Http\Controllers\dcontroller@refundPolicy")->name('refundPolicy');
 Route::get('/', "App\Http\Controllers\HomeController@home");
 Route::get('/rate', "App\Http\Controllers\HomeController@rate");
 Route::get('/about', "App\Http\Controllers\HomeController@about");
 Route::get('/how-to-trade', "App\Http\Controllers\HomeController@howtobuy")->name('how-to-trade');
 Route::get('/howtosell', "App\Http\Controllers\HomeController@howtosell");
-Route::get('/terms', "App\Http\Controllers\HomeController@terms");
+Route::get('/terms', "App\Http\Controllers\HomeController@terms")->name('terms');
 Route::post('/sellMail', "App\Http\Controllers\MailsController@sellMail")->name('sellMail');
 Route::post('/buyMail', "App\Http\Controllers\MailsController@buyMail")->name('buyMail');
 
