@@ -12,7 +12,7 @@
                             <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-duration="2000">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item">
-                                        <a href="index.html">Home</a>
+                                        <a href="https://oarexchange.com">Home</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
                                         Privacy Policy
@@ -34,8 +34,8 @@
                 <div class="col-lg-10">
                     <div class="blog-details-wrap">
                         <!-- <div class="blog-details-thumb">
-                <img src="assets/img/payroll.jpeg" alt="" />
-                </div> -->
+                    <img src="assets/img/payroll.jpeg" alt="" />
+                    </div> -->
                         <div class="blog-details-content">
 
                             <h2 class="title" data-aos="flip-down" data-aos-duration="3000">
@@ -359,12 +359,12 @@
                                     <div class="col-md-7" data-aos="fade-right" data-aos-duration="1000">
                                         <p>Feel Free to Contact Us for Assistance Via WhatsApp</p>
                                         <!-- <div class="post-tags">
-                    <ul class="list-wrap">
-                        <li><a href="#">Oar exchange</a></li>
-                        <li><a href="#">Bitcoin</a></li>
-                        <li><a href="#">currency</a></li>
-                    </ul>
-                    </div> -->
+                        <ul class="list-wrap">
+                            <li><a href="#">Oar exchange</a></li>
+                            <li><a href="#">Bitcoin</a></li>
+                            <li><a href="#">currency</a></li>
+                        </ul>
+                        </div> -->
                                     </div>
                                     <div class="col-md-5">
                                         <div class="blog-post-share">
@@ -399,24 +399,24 @@
                         </div>
                     </div>
                     <!-- <div class="blog-avatar-wrap mb-65">
-            <div class="blog-avatar-img">
-            <a href="#"
-                ><img
-                src="assets/img/update/testimonial/testi_thumb1_4.png"
-                alt="img"
-            /></a>
-            </div>
-            <div class="blog-avatar-info">
-            <h4 class="name">
-                <a href="#">Comment from Eniola Ibiyemi</a>
-            </h4>
-            <p>
-                I've tried several crypto-to-Naira platforms, but OAR Exchange
-                stands out for its reliability and excellent customer support. I
-                feel confident using their services for all my crypto needs
-            </p>
-            </div>
-        </div> -->
+                <div class="blog-avatar-img">
+                <a href="#"
+                    ><img
+                    src="assets/img/update/testimonial/testi_thumb1_4.png"
+                    alt="img"
+                /></a>
+                </div>
+                <div class="blog-avatar-info">
+                <h4 class="name">
+                    <a href="#">Comment from Eniola Ibiyemi</a>
+                </h4>
+                <p>
+                    I've tried several crypto-to-Naira platforms, but OAR Exchange
+                    stands out for its reliability and excellent customer support. I
+                    feel confident using their services for all my crypto needs
+                </p>
+                </div>
+            </div> -->
                 </div>
             </div>
         </div>
