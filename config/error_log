@@ -1,0 +1,228 @@
+[28-May-2025 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[28-May-2025 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[28-May-2025 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[28-May-2025 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/filesystems.php on line 16
+[28-May-2025 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/mail.php on line 16
+[31-Oct-2025 16:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[31-Oct-2025 16:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[31-Oct-2025 16:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[31-Oct-2025 16:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/queue.php on line 16
+[31-Oct-2025 16:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[31-Oct-2025 16:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/cache.php on line 18
+[31-Oct-2025 16:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/mail.php on line 16
+[10-Nov-2025 22:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/mail.php on line 16
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/queue.php on line 16
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/cache.php on line 18
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/filesystems.php on line 16
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/broadcasting.php on line 18
+[11-Nov-2025 13:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[11-Nov-2025 21:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[22-Nov-2025 07:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/cache.php on line 18
+[22-Nov-2025 07:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[22-Nov-2025 07:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/queue.php on line 16
+[22-Nov-2025 07:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[22-Nov-2025 07:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[22-Nov-2025 07:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/cache.php on line 18
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/queue.php on line 16
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/filesystems.php on line 16
+[27-Nov-2025 03:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/mail.php on line 16
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/cache.php on line 18
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/queue.php on line 16
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/filesystems.php on line 16
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[28-Nov-2025 23:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/broadcasting.php on line 18
+[05-Dec-2025 02:35:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/broadcasting.php on line 18
+[22-Dec-2025 14:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/services.php on line 18
+[22-Dec-2025 14:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/mail.php on line 16
+[22-Dec-2025 14:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[22-Dec-2025 14:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/session.php on line 21
+[22-Dec-2025 14:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/oarewcyd/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/view.php on line 17
+[22-Dec-2025 14:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/broadcasting.php on line 18
+[29-Mar-2026 21:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[29-Mar-2026 21:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/app.php on line 16
+[29-Mar-2026 21:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18
+[29-Mar-2026 21:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/oarewcyd/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oarewcyd/public_html/config/database.php on line 18

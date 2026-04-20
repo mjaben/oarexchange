@@ -1,0 +1,28 @@
+ <svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    aria-hidden="true"
+    role="img"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+>
+    <circle
+    cx="12"
+    cy="12"
+    r="2"
+    fill="#46505C"
+    ></circle>
+    <circle
+    cx="12"
+    cy="5"
+    r="2"
+    fill="#46505C"
+    ></circle>
+    <circle
+    cx="12"
+    cy="19"
+    r="2"
+    fill="#46505C"
+    ></circle>
+</svg>
