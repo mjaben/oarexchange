@@ -74,6 +74,12 @@
               <div class="contact-info-link">
                 <a style="color: #92939e" href="{{route('register')}}">Register</a>
               </div>
+              <div class="contact-info-link">
+                <a style="color: #92939e" href="{{route('terms')}}">Terms</a>
+              </div>
+              <div class="contact-info-link">
+                <a style="color: #92939e" href="{{route('privacyPolicy')}}">Privacy Policy</a>
+              </div>
 
               <form class="newsletter-form" style="opacity: 0">
                 <div class="form-group">
