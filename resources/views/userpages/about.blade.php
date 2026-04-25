@@ -41,9 +41,9 @@
                             OAR Exchange is the trade name and one of the products of OAREX Technology Ltd, a company duly
                             registered in Nigeria. It is a brand built for Nigerians who want a fast, reliable, and
                             profitable way to buy and sell cryptocurrency and pay utility bills without stress. We
-                            understand that people don't just want digital products and currencies, they want opportunities
+                            understand that people don’t just want digital products and currencies, they want opportunities
                             that can increase their income, support their hustle, live without stress and improve their
-                            financial stability. That's exactly what we provide.
+                            financial stability. That’s exactly what we provide.
                         </p>
                     </div>
                 </div>
@@ -54,21 +54,29 @@
                         <h6 class="intro-wrap-title" data-aos="flip-down" data-aos-duration="2000">
                             Why We Exist
                         </h6>
-                        <p class="intro-wrap-text" data-aos="flip-up" data-aos-duration="2000">
-                            Most Nigerians who buy crypto want three things: Better returns, Faster access to cash, and A
-                            secure place to trade. OAR Exchange was created to solve these needs with a platform that is
-                            easy to use, transparent, and built for real-life transactions — no complications.
-                        </p>
+                        <div class="intro-wrap-text" data-aos="flip-up" data-aos-duration="2000">
+                            Most Nigerians who buy crypto want three things:
+                            <ul style="list-style: disc; margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
+                                <li>Better returns</li>
+                                <li>Faster access to cash</li>
+                                <li>A secure place to trade</li>
+                            </ul>
+                            OAR Exchange was created to solve these needs with a platform that is easy to use, transparent, and built for real-life transactions, no complications.
+                        </div>
                     </div>
                     <div class="intro-wrap">
                         <h6 class="intro-wrap-title" data-aos="flip-up" data-aos-duration="1000">
                             Who We Serve
                         </h6>
-                        <p class="intro-wrap-text" data-aos="fade-up" data-aos-duration="2000">
-                            Students looking for side income, freelancers paid in crypto, traders who buy and sell daily,
-                            working professionals looking for better financial options, and anyone who wants a safe, stable
-                            way to access digital assets.
-                        </p>
+                        <div class="intro-wrap-text" data-aos="fade-up" data-aos-duration="2000">
+                            <ul style="list-style: disc; margin-left: 20px;">
+                                <li>Students looking for side income</li>
+                                <li>Freelancers paid in crypto</li>
+                                <li>Traders who buy and sell daily</li>
+                                <li>Working professionals looking for better financial options</li>
+                                <li>Anyone who wants a safe, stable way to access digital assets</li>
+                            </ul>
+                        </div>
                     </div>
                     <!-- <div class="intro-wrap">
                       <h6 class="intro-wrap-title">True Riches?</h6>
@@ -93,14 +101,19 @@
                         </h6>
                         <p class="intro-wrap-text" data-aos="fade-up" data-aos-duration="2000">
                             OAR Exchange was built to make cryptocurrency trading simple, safe, and genuinely rewarding for
-                            everyday Nigerians, whether you're a beginner, a freelancer, a trader, or someone looking for
+                            everyday Nigerians, whether you’re a beginner, a freelancer, a trader, or someone looking for
                             better financial options. We got you covered.
                         </p>
-                        <p class="intro-wrap-text mt-40" data-aos="flip-down" data-aos-duration="3000">
+                        <h6 class="intro-wrap-title mt-40" data-aos="fade-down" data-aos-duration="1000">
+                            Our Promise
+                        </h6>
+                        <p class="intro-wrap-text" data-aos="flip-down" data-aos-duration="3000">
                             OAR Exchange is committed to helping Nigerians build real financial value through crypto,
                             whether that means earning more on trades, enjoying faster cashouts, paying utility bills with
-                            ease or accessing opportunities available in the global digital economy. OAR Exchange is not
-                            just a platform — it's a tool for financial growth.
+                            ease or accessing opportunities available in the global digital economy.
+                        </p>
+                        <p class="intro-wrap-text" data-aos="fade-up" data-aos-duration="1000">
+                            OAR Exchange is not just a platform. It’s a tool for financial growth
                         </p>
                         <!-- <p class="intro-wrap-text mt-40">
                        By providing a user-friendly interface, robust security measures,
@@ -191,13 +204,18 @@
                         <span class="sub-title hero-subtitle" data-aos="fade-right" data-aos-duration="1000">MORE
                             POSSIBILITIES</span>
                         <h2 class="title style2" data-aos="fade-up" data-aos-duration="2000">
-                            Why People Choose OAR Exchange
+                            Why People Choose Us
                         </h2>
-                        <p class="mt-25">
-                            Premium Rates, Instant Naira Withdrawals, Fast &amp; Simple Trading, a Secure Platform, and
-                            utility bill payments — all in one place. We are growing because people trade with us once and
-                            stay with us.
-                        </p>
+                        <div class="mt-25" data-aos="fade-up" data-aos-duration="2500">
+                            <ul style="list-style: disc; margin-left: 20px;">
+                                <li><strong>Premium Rates:</strong> We offer highly competitive buying and selling prices so you can earn more from every transaction.</li>
+                                <li><strong>Instant Naira Withdrawals:</strong> Cash out to any Nigerian bank within minutes, no delays.</li>
+                                <li><strong>Fast & Simple Trading:</strong> No confusing steps. No hidden fees. Just straightforward crypto-to-Naira transactions.</li>
+                                <li><strong>Secure Platform:</strong> Your assets and data are protected with modern and effective security tools, so you can do business with peace of mind.</li>
+                                <li><strong>Pay utility bills with ease</strong></li>
+                                <li><strong>Trusted by Thousands:</strong> We are growing because people trade with us once and stay with us.</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="col-xl-6">
