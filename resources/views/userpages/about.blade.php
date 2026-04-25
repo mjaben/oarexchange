@@ -192,6 +192,132 @@
     <!--==============================
             Feature Area 04
             ==============================-->
+    <style>
+        .crypto-card-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .crypto-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.02) 100%);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            text-decoration: none !important;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .crypto-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, transparent, rgba(226, 117, 255, 0.1), transparent);
+            transform: translateX(-100%);
+            transition: 0.6s;
+        }
+
+        .crypto-card:hover::before {
+            transform: translateX(100%);
+        }
+
+        .crypto-card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: #e275ff;
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 0 20px rgba(226, 117, 255, 0.2);
+        }
+
+        .crypto-icon {
+            font-size: 32px;
+            color: #e275ff;
+            width: 55px;
+            height: 55px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(226, 117, 255, 0.1);
+            border-radius: 15px;
+            box-shadow: inset 0 0 10px rgba(226, 117, 255, 0.1);
+        }
+
+        .crypto-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .crypto-name {
+            font-size: 18px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 2px;
+        }
+
+        .crypto-symbol {
+            font-size: 13px;
+            color: #92939e;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .feature-list-premium {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 20px;
+        }
+
+        .feature-item-premium {
+            display: flex;
+            gap: 15px;
+            align-items: flex-start;
+        }
+
+        .feature-icon-premium {
+            flex-shrink: 0;
+            width: 32px;
+            height: 32px;
+            background: rgba(226, 117, 255, 0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #e275ff;
+            font-size: 16px;
+            border: 1px solid rgba(226, 117, 255, 0.2);
+            margin-top: 4px;
+        }
+
+        .feature-content-premium h4 {
+            font-size: 17px;
+            font-weight: 700;
+            margin-bottom: 5px;
+            color: #ffffff;
+        }
+
+        .feature-content-premium p {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 0;
+            color: #92939e;
+        }
+
+        @media (max-width: 991px) {
+            .crypto-card-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
     <div class="pt-140 pb-140 overflow-hidden position-relative z-index-common">
         <div class="feature-shape-4-1 spin"></div>
         <div class="feature-shape-4-2 alltuchtopdown"></div>
@@ -199,40 +325,100 @@
         <div class="feature-shape-4-4"></div>
         <div class="container">
             <div class="row justify-content-between align-items-center">
-                <div class="col-xl-5">
+                <div class="col-xl-6">
                     <div class="section-title mb-50">
                         <span class="sub-title hero-subtitle" data-aos="fade-right" data-aos-duration="1000">MORE
                             POSSIBILITIES</span>
                         <h2 class="title style2" data-aos="fade-up" data-aos-duration="2000">
                             Why People Choose Us
                         </h2>
-                        <div class="mt-25" data-aos="fade-up" data-aos-duration="2500">
-                            <ul style="list-style: disc; margin-left: 20px;">
-                                <li><strong>Premium Rates:</strong> We offer highly competitive buying and selling prices so you can earn more from every transaction.</li>
-                                <li><strong>Instant Naira Withdrawals:</strong> Cash out to any Nigerian bank within minutes, no delays.</li>
-                                <li><strong>Fast & Simple Trading:</strong> No confusing steps. No hidden fees. Just straightforward crypto-to-Naira transactions.</li>
-                                <li><strong>Secure Platform:</strong> Your assets and data are protected with modern and effective security tools, so you can do business with peace of mind.</li>
-                                <li><strong>Pay utility bills with ease</strong></li>
-                                <li><strong>Trusted by Thousands:</strong> We are growing because people trade with us once and stay with us.</li>
+                        <div class="mt-40" data-aos="fade-up" data-aos-duration="2500">
+                            <ul class="feature-list-premium">
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Premium Rates</h4>
+                                        <p>We offer highly competitive buying and selling prices so you can earn more from every transaction.</p>
+                                    </div>
+                                </li>
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Instant Naira Withdrawals</h4>
+                                        <p>Cash out to any Nigerian bank within minutes, no delays.</p>
+                                    </div>
+                                </li>
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Fast & Simple Trading</h4>
+                                        <p>No confusing steps. No hidden fees. Just straightforward crypto-to-Naira transactions.</p>
+                                    </div>
+                                </li>
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Secure Platform</h4>
+                                        <p>Your assets and data are protected with modern and effective security tools, so you can do business with peace of mind.</p>
+                                    </div>
+                                </li>
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Utility Bills</h4>
+                                        <p>Pay utility bills with ease directly from your dashboard.</p>
+                                    </div>
+                                </li>
+                                <li class="feature-item-premium">
+                                    <div class="feature-icon-premium"><i class="fas fa-check"></i></div>
+                                    <div class="feature-content-premium">
+                                        <h4>Trusted by Thousands</h4>
+                                        <p>We are growing because people trade with us once and stay with us.</p>
+                                    </div>
+                                </li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <ul class="feature-category-list mb-xl-0 mb-60" data-aos="flip-up" data-aos-duration="3000">
-                        <li>
-                            <a href="#">Bitcoin (BTC)</a>
-                        </li>
-                        <li>
-                            <a href="#">Ethereum (ETH)</a>
-                        </li>
-                        <li>
-                            <a href="#">Solana (SOL)</a>
-                        </li>
-                        <li>
-                            <a href="#">Binance Coin (BNB)</a>
-                        </li>
-                    </ul>
+                <div class="col-xl-5">
+                    <div class="crypto-card-grid" data-aos="fade-left" data-aos-duration="2000">
+                        <a href="#" class="crypto-card">
+                            <div class="crypto-icon">
+                                <i class="fab fa-bitcoin"></i>
+                            </div>
+                            <div class="crypto-info">
+                                <span class="crypto-name">Bitcoin</span>
+                                <span class="crypto-symbol">BTC</span>
+                            </div>
+                        </a>
+                        <a href="#" class="crypto-card">
+                            <div class="crypto-icon">
+                                <i class="fab fa-ethereum"></i>
+                            </div>
+                            <div class="crypto-info">
+                                <span class="crypto-name">Ethereum</span>
+                                <span class="crypto-symbol">ETH</span>
+                            </div>
+                        </a>
+                        <a href="#" class="crypto-card">
+                            <div class="crypto-icon">
+                                <i class="fas fa-coins"></i>
+                            </div>
+                            <div class="crypto-info">
+                                <span class="crypto-name">Solana</span>
+                                <span class="crypto-symbol">SOL</span>
+                            </div>
+                        </a>
+                        <a href="#" class="crypto-card">
+                            <div class="crypto-icon">
+                                <i class="fas fa-cube"></i>
+                            </div>
+                            <div class="crypto-info">
+                                <span class="crypto-name">Binance Coin</span>
+                                <span class="crypto-symbol">BNB</span>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="feature-wrap-4">
